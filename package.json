@@ -7,7 +7,7 @@
     "url": "https://github.com/moose-team/rich-message/issues"
   },
   "devDependencies": {
-    "standard": "^6.0.8",
+    "standard": "^8.5.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.5.1"
   },
@@ -34,10 +34,10 @@
   },
   "dependencies": {
     "ghlink": "^0.1.2",
-    "highlight.js": "^8.5.0",
-    "markdown-it": "^4.2.0",
+    "highlight.js": "^9.8.0",
+    "markdown-it": "^8.1.0",
     "markdown-it-emoji": "^1.0.0",
     "moment": "^2.10.2",
-    "twemoji": "^1.4.1"
+    "twemoji": "^2.2.0"
   }
 }
